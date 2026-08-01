@@ -25,7 +25,6 @@ The notebooks cover Python fundamentals, data structures, data manipulation, API
 
 ### Module 3: Python Programming Fundamentals
 - Functions
-- Object-Oriented Programming (OOP)
 - Exception Handling
 - File Handling
 - Classes and Objects
